@@ -1,7 +1,6 @@
-## AIM 5014 Reinforcement Learning - Spring 2022
 ## Aishwarya Singh & Atreish Ramlakhan
 
-# Final Project: MuZero Overview And Improvements
+# MuZero Overview And Improvements
 
 ### Code Usage:
 
